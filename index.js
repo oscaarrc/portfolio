@@ -111,7 +111,14 @@ function changeText(language) {
         });
 }
 
-
+document.getElementById('button').addEventListener('click', function(){
+  
+    let menu = document.getElementById('menu'),
+        button = this;
+    menu.classList.toggle('animar');
+    button.classList.toggle('menu-active');
+    
+  });
 
 //Comprobar que el navegador es compatible con js
 
