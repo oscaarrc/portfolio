@@ -1181,7 +1181,7 @@ body{
 
 .port-Projects{
   width: 100%;
-  height: 56rem;
+  height: 62rem;
 }
 
 
@@ -1189,7 +1189,7 @@ body{
  .wrap{
    margin: auto;
    width:100%;
-   height: 15rem;
+   height: 33rem;
    display:flex;
    flex-direction: column;
    justify-content: space-evenly;
