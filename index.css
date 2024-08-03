@@ -1181,15 +1181,14 @@ body{
 
 .port-Projects{
   width: 100%;
-  height: 62rem;
+  height: 59rem;
 }
-
 
 
  .wrap{
    margin: auto;
    width:100%;
-   height: 33rem;
+   height: 35rem;
    display:flex;
    flex-direction: column;
    justify-content: space-evenly;
